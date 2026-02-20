@@ -1,0 +1,501 @@
+﻿Item,Proyecto,Licitacion (1/0),Dias disponibles,Area techada,Densidad de muros,Tipo de sistema estructural,Especialidad,Calidad inicial planos,Estado avance inicio,Planif. automatizacion,Personas planificadas,Exp. pond. planificada,hh reales totales,Personas totales,Exp. pond. real,Dispersion real,Avance top 50%,Brecha permanencia,Duracion ruta critica
+18,Centrico - Edificio 5 y 6,0,30,17776.24,Alto,Muros,Acabados,1,0,0,2,1.25,242.41,1,0.82,Escalonado,77.2,3.8,22.1
+19,"San Juan - Edificio 6, 7",0,30,21085.12,Alto,Muros,Encofrado,1,0,0,1,1.0,43.87,1,0.78,Escalonado,86.1,12.9,10.11
+20,"San Juan - Edificio 6, 7",0,30,19413.2,Alto,Muros,Estructuras,5,0,0,1,1.0,32.86,1,1.0,Compacto,100.0,0.0,2.74
+21,"San Juan - Edificio 6, 7",0,30,18501.85,Alto,Muros,Encofrado,1,0,1,1,1.0,49.39,1,0.73,Atómico,68.7,14.9,11.57
+22,Centrico - Edificio 5 y 6,0,30,20133.31,Alto,Muros,Estructuras,5,0,0,1,1.0,36.74,1,1.0,Compacto,100.0,0.0,3.06
+23,MORE,1,45,42636.76,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,110.87,1,1.0,Compacto,100.0,0.0,9.24
+24,MORE,1,45,35808.52,Medio,Porticos + Muros,Encofrado,3,40,0,1,1.0,123.52,1,1.0,Compacto,100.0,0.0,10.29
+25,Centrico - Edificio 5 y 6,0,30,21355.53,Alto,Muros,Acabados,5,0,0,2,1.25,242.7,1,1.25,Compacto,100.0,0.0,20.22
+26,"San Juan - Edificio 6, 7",0,30,19776.02,Alto,Muros,Acabados,5,40,0,2,1.25,275.37,1,1.25,Compacto,100.0,0.0,22.95
+27,Independencia - Edificio 2,0,30,16631.43,Alto,Muros,Estructuras,5,0,0,1,1.0,25.15,1,0.87,Atómico,78.8,4.0,4.1
+28,"San Juan - Edificio 6, 7",0,30,17162.81,Alto,Muros,Estructuras,1,0,0,1,1.0,30.02,1,0.64,Atómico,70.2,12.0,8.5
+29,MORE,1,45,39161.23,Medio,Porticos + Muros,Estructuras,3,0,0,1,1.0,80.59,1,1.0,Compacto,100.0,0.0,6.72
+30,Independencia - Edificio 2,0,30,19416.09,Alto,Muros,Estructuras,3,0,0,1,1.0,28.0,1,1.0,Compacto,100.0,0.0,2.33
+31,MORE,1,45,43659.54,Medio,Porticos + Muros,Encofrado,3,0,0,1,1.0,130.61,1,1.0,Compacto,100.0,0.0,10.88
+32,MORE,1,45,33305.98,Medio,Porticos + Muros,Arquitectura,5,0,0,1,1.0,258.87,1,1.0,Compacto,100.0,0.0,21.57
+33,Centrico - Edificio 5 y 6,0,30,20603.09,Alto,Muros,Acabados,5,0,0,2,1.25,301.58,2,1.25,Compacto,100.0,0.0,25.13
+34,Independencia - Edificio 2,0,30,18181.23,Alto,Muros,Acabados,1,0,0,2,1.25,219.49,1,0.88,Atómico,74.2,15.8,26.19
+35,MORE,1,45,36322.3,Medio,Porticos + Muros,Arquitectura,5,0,0,1,1.0,366.63,2,1.0,Compacto,100.0,0.0,30.55
+36,Megaplaza,1,30,43254.07,Medio,Porticos + Muros,Arquitectura,5,0,0,1,1.0,287.7,1,1.0,Compacto,100.0,0.0,23.97
+37,MORE,1,45,41039.53,Medio,Porticos + Muros,Estructuras,3,40,0,1,1.0,78.45,1,1.0,Compacto,100.0,0.0,6.54
+38,Centrico - Edificio 5 y 6,0,30,20500.99,Alto,Muros,Encofrado,5,0,0,1,1.0,64.78,1,1.0,Compacto,100.0,0.0,5.4
+39,Independencia - Edificio 2,0,30,21133.79,Alto,Muros,Estructuras,1,0,0,1,1.0,35.05,1,0.71,Escalonado,77.6,27.1,16.47
+40,Independencia - Edificio 2,0,30,19233.35,Alto,Muros,Estructuras,3,0,0,1,1.0,35.96,1,1.0,Compacto,100.0,0.0,3.0
+41,"San Juan - Edificio 6, 7",0,30,26122.19,Alto,Muros,Acabados,5,0,0,2,1.25,407.13,2,1.25,Compacto,100.0,0.0,33.93
+42,MORE,1,45,42151.84,Medio,Porticos + Muros,Estructuras,3,0,0,1,1.0,108.8,1,1.0,Compacto,100.0,0.0,9.07
+43,Centrico - Edificio 5 y 6,0,30,19937.63,Alto,Muros,Encofrado,3,40,0,1,1.0,65.51,1,1.0,Compacto,100.0,0.0,5.46
+44,"San Juan - Edificio 6, 7",0,30,19302.2,Alto,Muros,Acabados,5,40,0,2,1.25,234.46,1,1.25,Compacto,100.0,0.0,19.54
+45,Independencia - Edificio 2,0,30,21554.1,Alto,Muros,Encofrado,3,0,0,1,1.0,76.22,1,1.0,Compacto,100.0,0.0,6.35
+46,Megaplaza,1,30,38658.36,Medio,Porticos + Muros,Acabados,5,0,0,2,1.25,530.27,2,1.25,Compacto,100.0,0.0,44.19
+47,"San Juan - Edificio 6, 7",0,30,21121.57,Alto,Muros,Arquitectura,5,0,0,1,1.0,176.87,1,1.0,Compacto,100.0,0.0,14.74
+48,MORE,1,45,41028.83,Medio,Porticos + Muros,Encofrado,5,40,0,1,1.0,150.28,1,1.0,Compacto,100.0,0.0,12.52
+49,Centrico - Edificio 5 y 6,0,30,21976.41,Alto,Muros,Arquitectura,1,0,0,1,1.0,163.47,1,0.69,Escalonado,72.9,8.9,18.07
+50,"San Juan - Edificio 6, 7",0,30,23120.76,Alto,Muros,Encofrado,5,40,0,1,1.0,70.71,1,1.0,Compacto,100.0,0.0,5.89
+51,Independencia - Edificio 2,0,30,22726.87,Alto,Muros,Estructuras,5,0,0,1,1.0,43.75,1,1.0,Compacto,100.0,0.0,3.65
+52,Independencia - Edificio 2,0,30,18414.96,Alto,Muros,Estructuras,1,0,0,1,1.0,30.77,1,0.8,Atómico,61.3,25.9,15.51
+53,"San Juan - Edificio 6, 7",0,30,16775.55,Alto,Muros,Acabados,5,0,0,2,1.25,279.55,1,0.93,Escalonado,43.4,5.7,26.15
+54,"San Juan - Edificio 6, 7",0,30,23264.82,Alto,Muros,Estructuras,5,0,0,1,1.0,31.91,1,1.0,Compacto,100.0,0.0,2.66
+55,Independencia - Edificio 2,0,30,22326.33,Alto,Muros,Estructuras,5,40,0,1,1.0,38.01,1,1.0,Compacto,100.0,0.0,3.17
+56,Megaplaza,1,30,40279.21,Medio,Porticos + Muros,Acabados,5,0,0,2,1.25,494.22,2,1.25,Compacto,100.0,0.0,41.19
+57,MORE,1,45,48532.13,Medio,Porticos + Muros,Estructuras,5,0,0,1,1.0,61.56,1,1.0,Compacto,100.0,0.0,5.13
+58,Independencia - Edificio 2,0,30,20561.98,Alto,Muros,Estructuras,5,0,0,1,1.0,31.84,1,1.0,Compacto,100.0,0.0,2.65
+59,Megaplaza,1,30,39886.31,Medio,Porticos + Muros,Arquitectura,5,40,0,1,1.0,246.66,1,1.0,Compacto,100.0,0.0,20.55
+60,Centrico - Edificio 5 y 6,0,30,20897.3,Alto,Muros,Encofrado,1,0,0,1,1.0,61.96,1,0.82,Atómico,87.2,1.3,5.81
+61,MORE,1,45,41452.28,Medio,Porticos + Muros,Arquitectura,3,0,0,1,1.0,263.02,1,0.79,Escalonado,78.2,4.0,23.92
+62,Independencia - Edificio 2,0,30,22247.08,Alto,Muros,Estructuras,5,0,0,1,1.0,52.16,1,1.0,Compacto,100.0,0.0,4.35
+63,"San Juan - Edificio 6, 7",0,30,20649.04,Alto,Muros,Acabados,1,0,0,2,1.25,345.13,2,0.8,Escalonado,88.3,13.0,35.26
+64,Independencia - Edificio 2,0,30,17286.43,Alto,Muros,Encofrado,3,40,0,1,1.0,61.66,1,1.0,Compacto,100.0,0.0,5.14
+65,Centrico - Edificio 5 y 6,0,30,19045.24,Alto,Muros,Acabados,3,0,0,2,1.25,309.05,2,1.25,Compacto,100.0,0.0,25.75
+66,Independencia - Edificio 2,0,30,18241.06,Alto,Muros,Estructuras,1,0,0,1,1.0,27.99,1,0.74,Escalonado,65.1,8.0,6.33
+67,MORE,1,45,40896.37,Medio,Porticos + Muros,Estructuras,3,0,0,1,1.0,69.66,1,1.0,Compacto,100.0,0.0,5.8
+68,MORE,1,45,37192.75,Medio,Porticos + Muros,Estructuras,5,40,0,1,1.0,54.69,1,1.0,Compacto,100.0,0.0,4.56
+69,MORE,1,45,39426.87,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,108.09,1,1.0,Compacto,100.0,0.0,9.01
+70,Megaplaza,1,30,36972.38,Medio,Porticos + Muros,Estructuras,5,0,0,1,1.0,55.12,1,1.0,Compacto,100.0,0.0,4.59
+71,MORE,1,45,37418.71,Medio,Porticos + Muros,Estructuras,5,40,0,1,1.0,50.03,1,1.0,Compacto,100.0,0.0,4.17
+72,"San Juan - Edificio 6, 7",0,30,19754.42,Alto,Muros,Estructuras,5,40,0,1,1.0,37.02,1,1.0,Compacto,100.0,0.0,3.09
+73,Megaplaza,1,30,35073.08,Medio,Porticos + Muros,Encofrado,3,40,0,1,1.0,108.25,1,1.0,Compacto,100.0,0.0,9.02
+74,"San Juan - Edificio 6, 7",0,30,18768.43,Alto,Muros,Acabados,5,0,0,2,1.25,302.64,2,1.25,Compacto,100.0,0.0,25.22
+75,Independencia - Edificio 2,0,30,20437.37,Alto,Muros,Estructuras,5,0,0,1,1.0,32.31,1,1.0,Compacto,100.0,0.0,2.69
+76,"San Juan - Edificio 6, 7",0,30,21848.3,Alto,Muros,Acabados,3,0,0,2,1.25,320.86,2,1.25,Compacto,100.0,0.0,26.74
+77,Independencia - Edificio 2,0,30,18255.79,Alto,Muros,Estructuras,5,0,0,1,1.0,28.06,1,1.0,Compacto,100.0,0.0,2.34
+78,Megaplaza,1,30,26087.32,Alto,Muros,Acabados,5,0,0,2,1.25,325.76,2,1.25,Compacto,100.0,0.0,27.15
+79,"San Juan - Edificio 6, 7",0,30,18873.48,Alto,Muros,Acabados,5,0,0,2,1.25,359.1,2,1.25,Compacto,100.0,0.0,29.93
+80,Independencia - Edificio 2,0,30,20466.93,Alto,Muros,Arquitectura,3,0,0,1,1.0,184.68,1,1.0,Compacto,100.0,0.0,15.39
+81,Independencia - Edificio 2,0,30,20502.39,Alto,Muros,Estructuras,5,0,0,1,1.0,32.56,1,1.0,Compacto,100.0,0.0,2.71
+82,Megaplaza,1,30,33186.47,Medio,Porticos + Muros,Encofrado,1,0,0,1,1.0,98.73,1,0.87,Escalonado,85.1,2.9,9.68
+83,Megaplaza,1,30,41950.69,Medio,Porticos + Muros,Estructuras,1,0,0,1,1.0,63.1,1,0.7,Escalonado,83.3,5.2,7.86
+84,MORE,1,45,40490.02,Medio,Porticos + Muros,Acabados,5,0,0,2,1.25,707.7,2,1.03,Escalonado,54.1,15.1,66.53
+85,Megaplaza,1,30,40276.02,Medio,Porticos + Muros,Estructuras,1,0,0,1,1.0,77.98,1,0.71,Atómico,99.1,11.8,12.4
+86,MORE,1,45,33757.98,Medio,Porticos + Muros,Estructuras,5,0,0,1,1.0,59.2,1,1.0,Compacto,100.0,0.0,4.93
+87,"San Juan - Edificio 6, 7",0,30,25146.65,Alto,Muros,Arquitectura,5,0,0,1,1.0,183.2,1,1.0,Compacto,100.0,0.0,15.27
+88,Independencia - Edificio 2,0,30,16953.85,Alto,Muros,Encofrado,5,0,1,1,1.0,42.89,1,1.0,Compacto,100.0,0.0,3.57
+89,"San Juan - Edificio 6, 7",0,30,18765.82,Alto,Muros,Encofrado,1,0,0,1,1.0,46.61,1,0.89,Escalonado,55.1,4.0,5.88
+90,MORE,1,45,40580.82,Medio,Porticos + Muros,Arquitectura,5,0,0,1,1.0,252.73,1,1.0,Compacto,100.0,0.0,21.06
+91,Centrico - Edificio 5 y 6,0,30,21086.72,Alto,Muros,Acabados,1,0,0,2,1.25,283.15,1,0.77,Atómico,56.2,24.9,36.05
+92,Megaplaza,1,30,47988.03,Medio,Porticos + Muros,Arquitectura,3,0,0,1,1.0,516.97,2,1.0,Compacto,100.0,0.0,43.08
+93,"San Juan - Edificio 6, 7",0,30,24779.76,Alto,Muros,Acabados,3,40,0,2,1.25,294.22,1,1.25,Compacto,100.0,0.0,24.52
+94,Centrico - Edificio 5 y 6,0,30,21367.92,Alto,Muros,Acabados,5,0,0,2,1.25,271.83,1,1.25,Compacto,100.0,0.0,22.65
+95,Centrico - Edificio 5 y 6,0,30,19760.3,Alto,Muros,Estructuras,5,40,0,1,1.0,34.17,1,1.0,Compacto,100.0,0.0,2.85
+96,"San Juan - Edificio 6, 7",0,30,21086.97,Alto,Muros,Arquitectura,5,0,0,1,1.0,197.03,1,1.0,Compacto,100.0,0.0,16.42
+97,Megaplaza,1,30,38999.51,Medio,Porticos + Muros,Arquitectura,5,0,0,1,1.0,379.23,2,1.0,Compacto,100.0,0.0,31.6
+98,MORE,1,45,41307.71,Medio,Porticos + Muros,Acabados,5,0,0,2,1.25,519.64,2,0.98,Escalonado,72.9,10.0,48.3
+99,Independencia - Edificio 2,0,30,19199.25,Alto,Muros,Encofrado,5,0,0,1,1.0,65.22,1,1.0,Compacto,100.0,0.0,5.43
+100,Megaplaza,1,30,44039.58,Medio,Porticos + Muros,Arquitectura,3,0,0,1,1.0,331.49,2,1.0,Compacto,100.0,0.0,27.62
+101,"San Juan - Edificio 6, 7",0,30,20521.06,Alto,Muros,Encofrado,5,0,0,1,1.0,99.11,1,1.0,Compacto,100.0,0.0,8.26
+102,Independencia - Edificio 2,0,30,20364.48,Alto,Muros,Acabados,5,40,0,2,1.25,341.95,2,1.25,Compacto,100.0,0.0,28.5
+103,Megaplaza,1,30,42068.06,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,110.42,1,1.0,Compacto,100.0,0.0,9.2
+104,Megaplaza,1,30,30701.12,Medio,Porticos + Muros,Estructuras,3,40,0,1,1.0,57.48,1,1.0,Compacto,100.0,0.0,4.79
+105,"San Juan - Edificio 6, 7",0,30,23129.41,Alto,Muros,Encofrado,1,40,1,1,1.0,83.13,1,0.63,Escalonado,73.8,13.5,13.68
+106,MORE,1,45,35060.22,Medio,Porticos + Muros,Acabados,5,0,0,2,1.25,386.49,2,1.25,Compacto,100.0,0.0,32.21
+107,MORE,1,45,42464.86,Medio,Porticos + Muros,Arquitectura,3,0,0,1,1.0,309.07,2,1.0,Compacto,100.0,0.0,25.76
+108,Independencia - Edificio 2,0,30,19869.05,Alto,Muros,Acabados,5,0,0,2,1.25,291.55,1,1.25,Compacto,100.0,0.0,24.3
+109,Centrico - Edificio 5 y 6,0,30,19618.18,Alto,Muros,Estructuras,3,40,0,1,1.0,34.95,1,1.0,Compacto,100.0,0.0,2.91
+110,MORE,1,45,37126.79,Medio,Porticos + Muros,Arquitectura,1,0,0,1,1.0,340.24,2,0.73,Escalonado,80.7,6.7,31.7
+111,"San Juan - Edificio 6, 7",0,30,17764.11,Alto,Muros,Estructuras,1,0,0,1,1.0,44.4,1,0.83,Escalonado,68.2,3.0,5.2
+112,"San Juan - Edificio 6, 7",0,30,20219.47,Alto,Muros,Arquitectura,3,0,0,1,1.0,157.35,1,1.0,Compacto,100.0,0.0,13.11
+113,Centrico - Edificio 5 y 6,0,30,22444.41,Alto,Muros,Acabados,3,0,0,2,1.25,210.58,1,1.25,Compacto,100.0,0.0,17.55
+114,MORE,1,45,37901.92,Medio,Porticos + Muros,Estructuras,5,40,0,1,1.0,69.34,1,1.0,Compacto,100.0,0.0,5.78
+115,Independencia - Edificio 2,0,30,19448.38,Alto,Muros,Acabados,5,40,0,2,1.25,215.74,1,0.76,Escalonado,74.3,1.5,18.73
+116,"San Juan - Edificio 6, 7",0,30,18985.13,Alto,Muros,Arquitectura,5,40,0,1,1.0,175.13,1,1.0,Compacto,100.0,0.0,14.59
+117,Centrico - Edificio 5 y 6,0,30,19278.03,Alto,Muros,Encofrado,1,40,0,1,1.0,60.36,1,0.85,Atómico,80.4,8.6,9.33
+118,"San Juan - Edificio 6, 7",0,30,22206.05,Alto,Muros,Arquitectura,5,0,0,1,1.0,211.14,1,1.0,Compacto,100.0,0.0,17.59
+119,Megaplaza,1,30,48022.3,Medio,Porticos + Muros,Arquitectura,5,0,0,1,1.0,427.84,2,1.0,Compacto,100.0,0.0,35.65
+120,Independencia - Edificio 2,0,30,23241.07,Alto,Muros,Estructuras,3,40,0,1,1.0,50.01,1,1.0,Compacto,100.0,0.0,4.17
+121,"San Juan - Edificio 6, 7",0,30,20767.23,Alto,Muros,Encofrado,3,0,0,1,1.0,43.66,1,1.0,Compacto,100.0,0.0,3.64
+122,Independencia - Edificio 2,0,30,18776.96,Alto,Muros,Encofrado,3,0,0,1,1.0,45.62,1,1.0,Compacto,100.0,0.0,3.8
+123,Megaplaza,1,30,42079.49,Medio,Porticos + Muros,Arquitectura,5,0,0,1,1.0,330.71,2,1.0,Compacto,100.0,0.0,27.56
+124,Centrico - Edificio 5 y 6,0,30,20567.12,Alto,Muros,Estructuras,3,0,0,1,1.0,33.52,1,1.0,Compacto,100.0,0.0,2.79
+125,Megaplaza,1,30,31522.57,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,89.72,1,1.0,Compacto,100.0,0.0,7.48
+126,Independencia - Edificio 2,0,30,20999.48,Alto,Muros,Encofrado,5,40,0,1,1.0,68.24,1,0.76,Escalonado,68.3,6.5,8.94
+127,"San Juan - Edificio 6, 7",0,30,21241.34,Alto,Muros,Estructuras,5,0,0,1,1.0,40.92,1,1.0,Compacto,100.0,0.0,3.41
+128,Independencia - Edificio 2,0,30,20918.36,Alto,Muros,Arquitectura,1,40,0,1,1.0,159.74,1,0.69,Atómico,78.3,9.1,17.86
+129,Megaplaza,1,30,45427.43,Medio,Porticos + Muros,Acabados,5,0,0,2,1.25,559.56,2,1.25,Compacto,100.0,0.0,46.63
+130,Megaplaza,1,30,45391.42,Medio,Porticos + Muros,Encofrado,3,0,0,1,1.0,165.43,1,1.0,Compacto,100.0,0.0,13.79
+131,Megaplaza,1,30,38955.89,Medio,Porticos + Muros,Acabados,5,0,0,2,1.25,516.79,2,1.25,Compacto,100.0,0.0,43.07
+132,"San Juan - Edificio 6, 7",0,30,21735.53,Alto,Muros,Arquitectura,5,0,0,1,1.0,181.43,1,1.0,Compacto,100.0,0.0,15.12
+133,Megaplaza,1,30,42853.6,Medio,Porticos + Muros,Acabados,1,0,0,2,1.25,561.04,2,1.03,Atómico,75.5,8.2,50.85
+134,Independencia - Edificio 2,0,30,22906.77,Alto,Muros,Estructuras,3,0,0,1,1.0,33.49,1,1.0,Compacto,100.0,0.0,2.79
+135,MORE,1,45,35796.35,Medio,Porticos + Muros,Estructuras,5,0,0,1,1.0,45.53,1,1.0,Compacto,100.0,0.0,3.79
+136,Megaplaza,1,30,35170.42,Medio,Porticos + Muros,Estructuras,5,40,0,1,1.0,58.32,1,1.0,Compacto,100.0,0.0,4.86
+137,Independencia - Edificio 2,0,30,18348.83,Alto,Muros,Arquitectura,5,0,0,1,1.0,174.88,1,1.0,Compacto,100.0,0.0,14.57
+138,Megaplaza,1,30,46484.43,Medio,Porticos + Muros,Estructuras,3,0,0,1,1.0,85.89,1,1.0,Compacto,100.0,0.0,7.16
+139,MORE,1,45,37508.52,Medio,Porticos + Muros,Estructuras,5,0,0,1,1.0,78.91,1,1.0,Compacto,100.0,0.0,6.58
+140,Independencia - Edificio 2,0,30,18858.51,Alto,Muros,Arquitectura,5,0,0,1,1.0,107.72,1,1.0,Compacto,100.0,0.0,8.98
+141,Independencia - Edificio 2,0,30,18243.26,Alto,Muros,Estructuras,5,0,0,1,1.0,30.69,1,1.0,Compacto,100.0,0.0,2.56
+142,Megaplaza,1,30,39249.69,Medio,Porticos + Muros,Encofrado,3,0,1,1,1.0,118.56,1,1.0,Compacto,100.0,0.0,9.88
+143,"San Juan - Edificio 6, 7",0,30,18738.02,Alto,Muros,Estructuras,1,0,0,1,1.0,32.06,1,1.0,Compacto,100.0,0.0,2.67
+144,Megaplaza,1,30,44121.89,Medio,Porticos + Muros,Encofrado,5,0,1,1,1.0,144.48,1,1.0,Compacto,100.0,0.0,12.04
+145,Independencia - Edificio 2,0,30,19281.42,Alto,Muros,Encofrado,5,0,0,1,1.0,62.37,1,1.0,Compacto,100.0,0.0,5.2
+146,"San Juan - Edificio 6, 7",0,30,21714.89,Alto,Muros,Acabados,5,0,0,2,1.25,329.96,2,0.94,Escalonado,58.2,7.7,31.35
+147,"San Juan - Edificio 6, 7",0,30,20382.2,Alto,Muros,Estructuras,1,40,0,1,1.0,34.89,1,0.63,Escalonado,47.2,6.1,5.96
+148,Centrico - Edificio 5 y 6,0,30,17117.01,Alto,Muros,Arquitectura,5,0,0,1,1.0,147.39,1,1.0,Compacto,100.0,0.0,12.28
+149,Megaplaza,1,30,37584.88,Medio,Porticos + Muros,Encofrado,1,0,1,1,1.0,119.14,1,0.65,Atómico,86.9,5.4,12.63
+150,Independencia - Edificio 2,0,30,17540.26,Alto,Muros,Acabados,5,40,0,2,1.25,222.02,1,1.25,Compacto,100.0,0.0,18.5
+151,Centrico - Edificio 5 y 6,0,30,17439.39,Alto,Muros,Estructuras,5,0,0,1,1.0,33.79,1,0.66,Atómico,62.6,11.4,8.52
+152,MORE,1,45,39173.73,Medio,Porticos + Muros,Encofrado,3,0,1,1,1.0,116.08,1,1.0,Compacto,100.0,0.0,9.67
+153,"San Juan - Edificio 6, 7",0,30,22234.59,Alto,Muros,Encofrado,5,0,0,1,1.0,71.47,1,1.0,Compacto,100.0,0.0,5.96
+154,Centrico - Edificio 5 y 6,0,30,21215.03,Alto,Muros,Arquitectura,5,0,0,1,1.0,167.45,1,1.0,Compacto,100.0,0.0,13.95
+155,Centrico - Edificio 5 y 6,0,30,22880.23,Alto,Muros,Encofrado,3,0,0,1,1.0,68.23,1,0.74,Escalonado,27.6,2.1,6.74
+156,Independencia - Edificio 2,0,30,21571.6,Alto,Muros,Arquitectura,5,0,0,1,1.0,183.95,1,1.0,Compacto,100.0,0.0,15.33
+157,MORE,1,45,39985.59,Medio,Porticos + Muros,Arquitectura,3,0,0,1,1.0,268.86,1,1.0,Compacto,100.0,0.0,22.41
+158,Megaplaza,1,30,40833.53,Medio,Porticos + Muros,Estructuras,5,0,0,1,1.0,51.1,1,0.65,Atómico,69.2,5.6,7.06
+159,Independencia - Edificio 2,0,30,21246.62,Alto,Muros,Estructuras,5,40,0,1,1.0,36.44,1,1.0,Compacto,100.0,0.0,3.04
+160,Megaplaza,1,30,37412.25,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,131.37,1,0.65,Atómico,77.9,5.3,13.6
+161,Centrico - Edificio 5 y 6,0,30,18697.16,Alto,Muros,Estructuras,5,0,0,1,1.0,29.56,1,1.0,Compacto,100.0,0.0,2.46
+162,"San Juan - Edificio 6, 7",0,30,21045.67,Alto,Muros,Acabados,1,0,0,2,1.25,251.03,1,0.85,Atómico,58.4,12.0,26.92
+163,"San Juan - Edificio 6, 7",0,30,20423.19,Alto,Muros,Acabados,3,0,0,2,1.25,281.22,1,1.25,Compacto,100.0,0.0,23.44
+164,Centrico - Edificio 5 y 6,0,30,22062.68,Alto,Muros,Encofrado,5,0,0,1,1.0,97.66,1,0.66,Atómico,65.4,11.3,13.79
+165,MORE,1,45,41606.5,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,112.62,1,1.0,Compacto,100.0,0.0,9.38
+166,"San Juan - Edificio 6, 7",0,30,19948.89,Alto,Muros,Arquitectura,1,0,0,1,1.0,190.29,1,0.8,Escalonado,81.6,22.8,27.26
+167,Centrico - Edificio 5 y 6,0,30,19826.31,Alto,Muros,Encofrado,3,0,0,1,1.0,53.02,1,1.0,Compacto,100.0,0.0,4.42
+168,"San Juan - Edificio 6, 7",0,30,18479.7,Alto,Muros,Arquitectura,5,40,0,1,1.0,144.26,1,1.0,Compacto,100.0,0.0,12.02
+169,MORE,1,45,35419.29,Medio,Porticos + Muros,Encofrado,3,0,0,1,1.0,131.18,1,1.0,Compacto,100.0,0.0,10.93
+170,Centrico - Edificio 5 y 6,0,30,16788.91,Alto,Muros,Encofrado,5,0,0,1,1.0,48.13,1,1.0,Compacto,100.0,0.0,4.01
+171,"San Juan - Edificio 6, 7",0,30,20759.45,Alto,Muros,Encofrado,1,0,1,1,1.0,51.73,1,0.89,Escalonado,67.6,13.1,10.86
+172,Megaplaza,1,30,40271.01,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,128.29,1,1.0,Compacto,100.0,0.0,10.69
+173,"San Juan - Edificio 6, 7",0,30,18534.63,Alto,Muros,Estructuras,1,40,0,1,1.0,33.99,1,0.67,Atómico,73.0,17.4,11.53
+174,MORE,1,45,40786.33,Medio,Porticos + Muros,Encofrado,1,0,0,1,1.0,134.24,1,1.0,Compacto,100.0,0.0,11.19
+175,Centrico - Edificio 5 y 6,0,30,20282.07,Alto,Muros,Arquitectura,5,0,0,1,1.0,188.66,1,1.0,Compacto,100.0,0.0,15.72
+176,MORE,1,45,38990.48,Medio,Porticos + Muros,Acabados,5,40,0,2,1.25,393.68,2,1.25,Compacto,100.0,0.0,32.81
+177,Megaplaza,1,30,36265.11,Medio,Porticos + Muros,Estructuras,5,0,0,1,1.0,74.81,1,1.0,Compacto,100.0,0.0,6.23
+178,MORE,1,45,38954.4,Medio,Porticos + Muros,Estructuras,3,0,0,1,1.0,54.67,1,1.0,Compacto,100.0,0.0,4.56
+179,MORE,1,45,33425.04,Medio,Porticos + Muros,Estructuras,3,40,0,1,1.0,46.8,1,0.89,Atómico,74.4,5.0,6.4
+180,Centrico - Edificio 5 y 6,0,30,17220.86,Alto,Muros,Estructuras,3,0,0,1,1.0,22.87,1,1.0,Compacto,100.0,0.0,1.91
+181,Megaplaza,1,30,40717.67,Medio,Porticos + Muros,Estructuras,1,0,0,1,1.0,90.96,1,0.65,Escalonado,77.4,14.3,14.73
+182,"San Juan - Edificio 6, 7",0,30,17180.98,Alto,Muros,Encofrado,5,0,0,1,1.0,51.99,1,1.0,Compacto,100.0,0.0,4.33
+183,Megaplaza,1,30,43078.63,Medio,Porticos + Muros,Estructuras,5,40,0,1,1.0,74.24,1,1.0,Compacto,100.0,0.0,6.19
+184,"San Juan - Edificio 6, 7",0,30,22628.8,Alto,Muros,Acabados,5,40,0,2,1.25,301.34,2,1.25,Compacto,100.0,0.0,25.11
+185,Centrico - Edificio 5 y 6,0,30,18125.54,Alto,Muros,Arquitectura,5,40,0,1,1.0,132.94,1,1.0,Compacto,100.0,0.0,11.08
+186,"San Juan - Edificio 6, 7",0,30,20127.38,Alto,Muros,Arquitectura,5,0,0,1,1.0,175.64,1,1.0,Compacto,100.0,0.0,14.64
+187,Megaplaza,1,30,44642.73,Medio,Porticos + Muros,Encofrado,5,0,1,1,1.0,105.06,1,1.0,Compacto,100.0,0.0,8.76
+188,Megaplaza,1,30,41500.29,Medio,Porticos + Muros,Estructuras,1,0,0,1,1.0,62.24,1,0.69,Escalonado,56.1,31.3,20.84
+189,Independencia - Edificio 2,0,30,18885.02,Alto,Muros,Estructuras,1,0,0,1,1.0,26.14,1,0.64,Atómico,38.6,13.4,8.88
+190,Megaplaza,1,30,44416.2,Medio,Porticos + Muros,Arquitectura,5,40,0,1,1.0,335.69,2,0.73,Escalonado,78.5,7.1,31.52
+191,Centrico - Edificio 5 y 6,0,30,18756.36,Alto,Muros,Estructuras,3,0,0,1,1.0,35.42,1,1.0,Compacto,100.0,0.0,2.95
+192,Centrico - Edificio 5 y 6,0,30,17654.79,Alto,Muros,Arquitectura,1,0,0,1,1.0,117.38,1,0.76,Atómico,58.2,1.0,10.28
+193,MORE,1,45,36317.31,Medio,Porticos + Muros,Acabados,5,40,0,2,1.25,574.99,2,1.25,Compacto,100.0,0.0,47.92
+194,"San Juan - Edificio 6, 7",0,30,17570.91,Alto,Muros,Acabados,3,0,0,2,1.25,230.94,1,1.25,Compacto,100.0,0.0,19.25
+195,Megaplaza,1,30,43120.31,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,131.98,1,1.0,Compacto,100.0,0.0,11.0
+196,MORE,1,45,39390.12,Medio,Porticos + Muros,Acabados,3,0,0,2,1.25,460.73,2,1.25,Compacto,100.0,0.0,38.39
+197,Independencia - Edificio 2,0,30,19522.24,Alto,Muros,Acabados,3,40,0,2,1.25,350.68,2,1.25,Compacto,100.0,0.0,29.22
+198,Independencia - Edificio 2,0,30,17737.09,Alto,Muros,Acabados,5,0,0,2,1.25,217.65,1,1.25,Compacto,100.0,0.0,18.14
+199,Megaplaza,1,30,41855.89,Medio,Porticos + Muros,Estructuras,3,0,0,1,1.0,77.49,1,1.0,Compacto,100.0,0.0,6.46
+200,"San Juan - Edificio 6, 7",0,30,21199.19,Alto,Muros,Acabados,1,0,0,2,1.25,235.9,1,1.25,Compacto,100.0,0.0,19.66
+201,MORE,1,45,45252.27,Medio,Porticos + Muros,Arquitectura,1,0,0,1,1.0,523.97,2,0.67,Escalonado,59.2,6.5,46.91
+202,Centrico - Edificio 5 y 6,0,30,19859.0,Alto,Muros,Estructuras,5,0,0,1,1.0,36.32,1,1.0,Compacto,100.0,0.0,3.03
+203,"San Juan - Edificio 6, 7",0,30,20098.11,Alto,Muros,Acabados,1,0,0,2,1.25,252.39,1,0.81,Escalonado,95.8,7.0,24.53
+204,Centrico - Edificio 5 y 6,0,30,21764.21,Alto,Muros,Arquitectura,3,0,0,1,1.0,189.05,1,1.0,Compacto,100.0,0.0,15.75
+205,MORE,1,45,36310.27,Medio,Porticos + Muros,Estructuras,5,0,0,1,1.0,71.18,1,1.0,Compacto,100.0,0.0,5.93
+206,"San Juan - Edificio 6, 7",0,30,17030.2,Alto,Muros,Encofrado,3,0,0,1,1.0,42.21,1,1.0,Compacto,100.0,0.0,3.52
+207,"San Juan - Edificio 6, 7",0,30,22690.81,Alto,Muros,Arquitectura,5,0,0,1,1.0,166.72,1,1.0,Compacto,100.0,0.0,13.89
+208,"San Juan - Edificio 6, 7",0,30,19221.16,Alto,Muros,Arquitectura,5,40,0,1,1.0,164.69,1,1.0,Compacto,100.0,0.0,13.72
+209,"San Juan - Edificio 6, 7",0,30,17612.81,Alto,Muros,Estructuras,1,0,0,1,1.0,24.31,1,0.82,Atómico,86.3,4.3,4.18
+210,MORE,1,45,44047.61,Medio,Porticos + Muros,Arquitectura,5,40,0,1,1.0,369.77,2,1.0,Compacto,100.0,0.0,30.81
+211,MORE,1,45,41860.18,Medio,Porticos + Muros,Arquitectura,3,40,0,1,1.0,343.36,2,1.0,Compacto,100.0,0.0,28.61
+212,Megaplaza,1,30,43235.72,Medio,Porticos + Muros,Encofrado,5,40,0,1,1.0,116.6,1,1.0,Compacto,100.0,0.0,9.72
+213,MORE,1,45,40128.02,Medio,Porticos + Muros,Acabados,1,0,0,2,1.25,465.92,2,1.25,Compacto,100.0,0.0,38.83
+214,"San Juan - Edificio 6, 7",0,30,22186.14,Alto,Muros,Acabados,1,0,0,2,1.25,314.42,2,1.25,Compacto,100.0,0.0,26.2
+215,Megaplaza,1,30,40943.05,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,122.49,1,1.0,Compacto,100.0,0.0,10.21
+216,"San Juan - Edificio 6, 7",0,30,22510.4,Alto,Muros,Encofrado,3,40,0,1,1.0,69.47,1,0.74,Atómico,69.5,16.6,14.09
+217,Centrico - Edificio 5 y 6,0,30,19765.2,Alto,Muros,Encofrado,3,0,0,1,1.0,58.97,1,1.0,Compacto,100.0,0.0,4.91
+218,Megaplaza,1,30,35939.15,Medio,Porticos + Muros,Acabados,1,0,0,2,1.25,483.61,2,0.8,Atómico,94.6,3.7,42.15
+219,MORE,1,45,34637.79,Medio,Porticos + Muros,Encofrado,3,0,0,1,1.0,119.16,1,1.0,Compacto,100.0,0.0,9.93
+220,"San Juan - Edificio 6, 7",0,30,19502.62,Alto,Muros,Encofrado,5,0,0,1,1.0,74.46,1,1.0,Compacto,100.0,0.0,6.2
+221,Independencia - Edificio 2,0,30,20589.05,Alto,Muros,Estructuras,1,0,0,1,1.0,27.05,1,0.82,Escalonado,89.6,14.8,9.65
+222,Independencia - Edificio 2,0,30,16454.78,Alto,Muros,Acabados,5,0,0,2,1.25,224.72,1,1.25,Compacto,100.0,0.0,18.73
+223,Megaplaza,1,30,43600.91,Medio,Porticos + Muros,Arquitectura,1,0,0,1,1.0,394.96,2,1.0,Compacto,100.0,0.0,32.91
+224,Megaplaza,1,30,36293.15,Medio,Porticos + Muros,Arquitectura,3,0,0,1,1.0,372.99,2,1.0,Compacto,100.0,0.0,31.08
+225,MORE,1,45,41578.69,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,122.25,1,1.0,Compacto,100.0,0.0,10.19
+226,MORE,1,45,40058.75,Medio,Porticos + Muros,Arquitectura,5,0,0,1,1.0,379.46,2,1.0,Compacto,100.0,0.0,31.62
+227,Independencia - Edificio 2,0,30,21568.07,Alto,Muros,Estructuras,1,0,0,1,1.0,46.36,1,0.79,Atómico,89.2,2.6,5.16
+228,MORE,1,45,34221.77,Medio,Porticos + Muros,Acabados,3,0,0,2,1.25,346.76,2,1.25,Compacto,100.0,0.0,28.9
+229,Megaplaza,1,30,47445.26,Medio,Porticos + Muros,Arquitectura,3,0,0,1,1.0,503.71,2,1.0,Compacto,100.0,0.0,41.98
+230,Centrico - Edificio 5 y 6,0,30,19985.91,Alto,Muros,Arquitectura,1,0,0,1,1.0,194.67,1,0.67,Escalonado,80.3,12.4,22.42
+231,Independencia - Edificio 2,0,30,16266.93,Alto,Muros,Acabados,5,0,0,2,1.25,217.58,1,1.25,Compacto,100.0,0.0,18.13
+232,Independencia - Edificio 2,0,30,21153.52,Alto,Muros,Acabados,3,0,0,2,1.25,260.06,1,1.25,Compacto,100.0,0.0,21.67
+233,MORE,1,45,44354.99,Medio,Porticos + Muros,Encofrado,3,40,0,1,1.0,135.91,1,1.0,Compacto,100.0,0.0,11.33
+234,Megaplaza,1,30,32926.24,Medio,Porticos + Muros,Acabados,3,40,0,2,1.25,346.95,2,1.25,Compacto,100.0,0.0,28.91
+235,Centrico - Edificio 5 y 6,0,30,14387.57,Alto,Muros,Arquitectura,5,0,0,1,1.0,116.84,1,0.89,Atómico,57.5,9.3,14.39
+236,Centrico - Edificio 5 y 6,0,30,18091.88,Alto,Muros,Arquitectura,3,0,0,1,1.0,125.44,1,1.0,Compacto,100.0,0.0,10.45
+237,Megaplaza,1,30,38079.19,Medio,Porticos + Muros,Estructuras,3,40,0,1,1.0,72.05,1,0.64,Escalonado,47.5,9.0,10.5
+238,"San Juan - Edificio 6, 7",0,30,18217.73,Alto,Muros,Arquitectura,5,40,0,1,1.0,158.1,1,1.0,Compacto,100.0,0.0,13.17
+239,"San Juan - Edificio 6, 7",0,30,22508.71,Alto,Muros,Acabados,5,40,0,2,1.25,269.15,1,1.25,Compacto,100.0,0.0,22.43
+240,Centrico - Edificio 5 y 6,0,30,17871.93,Alto,Muros,Estructuras,1,0,0,1,1.0,26.85,1,0.62,Atómico,68.4,7.3,5.89
+241,MORE,1,45,35618.62,Medio,Porticos + Muros,Arquitectura,5,0,0,1,1.0,275.79,1,1.0,Compacto,100.0,0.0,22.98
+242,Independencia - Edificio 2,0,30,21238.31,Alto,Muros,Encofrado,5,0,1,1,1.0,86.75,1,1.0,Compacto,100.0,0.0,7.23
+243,Independencia - Edificio 2,0,30,18743.03,Alto,Muros,Acabados,5,0,0,2,1.25,266.7,1,1.25,Compacto,100.0,0.0,22.22
+244,Centrico - Edificio 5 y 6,0,30,17107.74,Alto,Muros,Estructuras,5,0,0,1,1.0,29.5,1,1.0,Compacto,100.0,0.0,2.46
+245,"San Juan - Edificio 6, 7",0,30,20634.94,Alto,Muros,Arquitectura,5,0,0,1,1.0,164.29,1,1.0,Compacto,100.0,0.0,13.69
+246,Independencia - Edificio 2,0,30,20166.69,Alto,Muros,Encofrado,5,0,0,1,1.0,69.05,1,1.0,Compacto,100.0,0.0,5.75
+247,Independencia - Edificio 2,0,30,20226.54,Alto,Muros,Encofrado,3,0,0,1,1.0,48.9,1,1.0,Compacto,100.0,0.0,4.08
+248,MORE,1,45,43061.56,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,125.52,1,1.0,Compacto,100.0,0.0,10.46
+249,Independencia - Edificio 2,0,30,21577.8,Alto,Muros,Acabados,5,0,0,2,1.25,269.3,1,1.25,Compacto,100.0,0.0,22.44
+250,"San Juan - Edificio 6, 7",0,30,21563.6,Alto,Muros,Estructuras,3,0,0,1,1.0,39.92,1,1.0,Compacto,100.0,0.0,3.33
+251,MORE,1,45,40096.88,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,148.67,1,1.0,Compacto,100.0,0.0,12.39
+252,Megaplaza,1,30,35243.95,Medio,Porticos + Muros,Acabados,5,0,0,2,1.25,440.96,2,0.87,Atómico,56.3,5.4,39.45
+253,Centrico - Edificio 5 y 6,0,30,22635.2,Alto,Muros,Encofrado,3,0,0,1,1.0,75.84,1,1.0,Compacto,100.0,0.0,6.32
+254,Centrico - Edificio 5 y 6,0,30,18866.08,Alto,Muros,Encofrado,1,0,0,1,1.0,51.74,1,1.0,Compacto,100.0,0.0,4.31
+255,Independencia - Edificio 2,0,30,23282.09,Alto,Muros,Estructuras,3,40,0,1,1.0,50.18,1,1.0,Compacto,100.0,0.0,4.18
+256,Independencia - Edificio 2,0,30,21026.99,Alto,Muros,Acabados,1,0,0,2,1.25,254.01,1,0.85,Escalonado,79.7,10.4,26.37
+257,Centrico - Edificio 5 y 6,0,30,19328.04,Alto,Muros,Acabados,3,0,0,2,1.25,268.11,1,0.75,Atómico,53.4,16.9,30.79
+258,Megaplaza,1,30,42986.24,Medio,Porticos + Muros,Encofrado,3,0,1,1,1.0,118.35,1,1.0,Compacto,100.0,0.0,9.86
+259,Independencia - Edificio 2,0,30,17357.99,Alto,Muros,Encofrado,1,0,0,1,1.0,49.0,1,1.0,Compacto,100.0,0.0,4.08
+260,Independencia - Edificio 2,0,30,19865.22,Alto,Muros,Acabados,5,40,0,2,1.25,295.07,1,1.25,Compacto,100.0,0.0,24.59
+261,"San Juan - Edificio 6, 7",0,30,18946.49,Alto,Muros,Estructuras,1,0,0,1,1.0,24.96,1,1.0,Compacto,100.0,0.0,2.08
+262,MORE,1,45,42113.21,Medio,Porticos + Muros,Acabados,5,40,0,2,1.25,496.19,2,1.25,Compacto,100.0,0.0,41.35
+263,"San Juan - Edificio 6, 7",0,30,20297.5,Alto,Muros,Arquitectura,3,0,0,1,1.0,195.53,1,1.0,Compacto,100.0,0.0,16.29
+264,Independencia - Edificio 2,0,30,20229.42,Alto,Muros,Encofrado,5,0,0,1,1.0,80.23,1,1.0,Compacto,100.0,0.0,6.69
+265,"San Juan - Edificio 6, 7",0,30,21718.62,Alto,Muros,Estructuras,5,0,0,1,1.0,31.21,1,1.0,Compacto,100.0,0.0,2.6
+266,"San Juan - Edificio 6, 7",0,30,19780.12,Alto,Muros,Acabados,3,0,0,2,1.25,280.51,1,1.25,Compacto,100.0,0.0,23.38
+267,Centrico - Edificio 5 y 6,0,30,22399.32,Alto,Muros,Arquitectura,5,0,0,1,1.0,173.7,1,1.0,Compacto,100.0,0.0,14.47
+268,MORE,1,45,33000.09,Medio,Porticos + Muros,Arquitectura,3,0,0,1,1.0,240.85,1,1.0,Compacto,100.0,0.0,20.07
+269,MORE,1,45,39851.85,Medio,Porticos + Muros,Estructuras,3,0,0,1,1.0,54.86,1,1.0,Compacto,100.0,0.0,4.57
+270,MORE,1,45,39667.58,Medio,Porticos + Muros,Estructuras,5,0,0,1,1.0,70.52,1,1.0,Compacto,100.0,0.0,5.88
+271,"San Juan - Edificio 6, 7",0,30,20577.46,Alto,Muros,Estructuras,3,40,0,1,1.0,32.41,1,1.0,Compacto,100.0,0.0,2.7
+272,MORE,1,45,39539.31,Medio,Porticos + Muros,Estructuras,5,0,0,1,1.0,78.54,1,1.0,Compacto,100.0,0.0,6.55
+273,Independencia - Edificio 2,0,30,20172.74,Alto,Muros,Arquitectura,5,0,0,1,1.0,152.0,1,1.0,Compacto,100.0,0.0,12.67
+274,Centrico - Edificio 5 y 6,0,30,18694.21,Alto,Muros,Encofrado,5,40,1,1,1.0,62.97,1,1.0,Compacto,100.0,0.0,5.25
+275,Megaplaza,1,30,46125.29,Medio,Porticos + Muros,Estructuras,1,0,0,1,1.0,72.93,1,0.8,Escalonado,60.7,9.3,10.73
+276,Centrico - Edificio 5 y 6,0,30,21839.5,Alto,Muros,Encofrado,1,0,0,1,1.0,66.65,1,0.63,Atómico,76.6,9.5,10.3
+277,Independencia - Edificio 2,0,30,25093.67,Alto,Muros,Estructuras,5,0,0,1,1.0,43.03,1,1.0,Compacto,100.0,0.0,3.59
+278,Centrico - Edificio 5 y 6,0,30,18510.43,Alto,Muros,Acabados,3,40,0,2,1.25,234.01,1,1.25,Compacto,100.0,0.0,19.5
+279,MORE,1,45,36925.25,Medio,Porticos + Muros,Acabados,5,0,0,2,1.25,468.04,2,1.25,Compacto,100.0,0.0,39.0
+280,"San Juan - Edificio 6, 7",0,30,18704.62,Alto,Muros,Acabados,5,0,0,2,1.25,252.92,1,1.25,Compacto,100.0,0.0,21.08
+281,Independencia - Edificio 2,0,30,22102.39,Alto,Muros,Encofrado,5,0,0,1,1.0,62.83,1,1.0,Compacto,100.0,0.0,5.24
+282,Centrico - Edificio 5 y 6,0,30,20464.26,Alto,Muros,Encofrado,5,0,1,1,1.0,52.13,1,1.0,Compacto,100.0,0.0,4.34
+283,MORE,1,45,38356.74,Medio,Porticos + Muros,Acabados,1,40,0,2,1.25,502.36,2,0.95,Escalonado,58.5,7.3,45.51
+284,Centrico - Edificio 5 y 6,0,30,18123.65,Alto,Muros,Estructuras,1,0,0,1,1.0,31.47,1,0.64,Atómico,93.3,8.4,6.82
+285,Megaplaza,1,30,34196.11,Medio,Porticos + Muros,Estructuras,5,0,0,1,1.0,47.1,1,1.0,Compacto,100.0,0.0,3.93
+286,Megaplaza,1,30,34187.34,Medio,Porticos + Muros,Encofrado,5,0,1,1,1.0,105.72,1,1.0,Compacto,100.0,0.0,8.81
+287,Centrico - Edificio 5 y 6,0,30,18444.16,Alto,Muros,Estructuras,1,0,0,1,1.0,40.66,1,0.75,Escalonado,86.7,32.6,19.69
+288,"San Juan - Edificio 6, 7",0,30,20122.23,Alto,Muros,Acabados,1,0,0,2,1.25,281.71,1,0.83,Escalonado,62.9,5.4,26.18
+289,Centrico - Edificio 5 y 6,0,30,23916.69,Alto,Muros,Estructuras,3,40,0,1,1.0,32.35,1,1.0,Compacto,100.0,0.0,2.7
+290,Independencia - Edificio 2,0,30,20481.85,Alto,Muros,Arquitectura,5,0,0,1,1.0,155.2,1,1.0,Compacto,100.0,0.0,12.93
+291,Megaplaza,1,30,41120.49,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,123.71,1,0.83,Atómico,31.5,13.3,16.96
+292,MORE,1,45,45450.7,Medio,Porticos + Muros,Estructuras,5,40,0,1,1.0,68.21,1,1.0,Compacto,100.0,0.0,5.68
+293,Centrico - Edificio 5 y 6,0,30,19786.7,Alto,Muros,Acabados,1,0,0,2,1.25,316.88,2,1.25,Compacto,100.0,0.0,26.41
+294,MORE,1,45,35907.09,Medio,Porticos + Muros,Acabados,5,0,0,2,1.25,414.35,2,1.25,Compacto,100.0,0.0,34.53
+295,"San Juan - Edificio 6, 7",0,30,23914.13,Alto,Muros,Acabados,5,0,0,2,1.25,299.83,1,1.25,Compacto,100.0,0.0,24.99
+296,"San Juan - Edificio 6, 7",0,30,22290.78,Alto,Muros,Encofrado,5,0,1,1,1.0,61.75,1,1.0,Compacto,100.0,0.0,5.15
+297,Megaplaza,1,30,43812.5,Medio,Porticos + Muros,Acabados,1,0,0,2,1.25,615.13,2,1.07,Escalonado,44.5,18.8,60.66
+298,MORE,1,45,44729.82,Medio,Porticos + Muros,Arquitectura,1,40,0,1,1.0,279.79,1,0.63,Escalonado,57.7,1.6,24.12
+299,Megaplaza,1,30,40004.82,Medio,Porticos + Muros,Arquitectura,3,0,0,1,1.0,283.12,1,1.0,Compacto,100.0,0.0,23.59
+300,Megaplaza,1,30,33569.76,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,89.82,1,1.0,Compacto,100.0,0.0,7.48
+301,Independencia - Edificio 2,0,30,20119.11,Alto,Muros,Acabados,3,40,0,2,1.25,248.47,1,1.25,Compacto,100.0,0.0,20.71
+302,"San Juan - Edificio 6, 7",0,30,19187.08,Alto,Muros,Estructuras,1,0,0,1,1.0,26.51,1,1.0,Compacto,100.0,0.0,2.21
+303,Megaplaza,1,30,47202.04,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,170.53,1,1.0,Compacto,100.0,0.0,14.21
+304,"San Juan - Edificio 6, 7",0,30,20473.16,Alto,Muros,Acabados,1,0,0,2,1.25,326.86,2,1.25,Compacto,100.0,0.0,27.24
+305,Centrico - Edificio 5 y 6,0,30,16333.32,Alto,Muros,Arquitectura,5,0,0,1,1.0,130.12,1,1.0,Compacto,100.0,0.0,10.84
+306,MORE,1,45,37495.24,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,112.75,1,1.0,Compacto,100.0,0.0,9.4
+307,"San Juan - Edificio 6, 7",0,30,20369.8,Alto,Muros,Arquitectura,3,40,0,1,1.0,139.15,1,1.0,Compacto,100.0,0.0,11.6
+308,"San Juan - Edificio 6, 7",0,30,16240.88,Alto,Muros,Encofrado,5,0,0,1,1.0,40.76,1,0.86,Escalonado,92.9,7.9,7.35
+309,Independencia - Edificio 2,0,30,20820.95,Alto,Muros,Estructuras,5,0,0,1,1.0,49.54,1,1.0,Compacto,100.0,0.0,4.13
+310,Centrico - Edificio 5 y 6,0,30,19179.44,Alto,Muros,Encofrado,3,0,0,1,1.0,46.35,1,1.0,Compacto,100.0,0.0,3.86
+311,MORE,1,45,39162.19,Medio,Porticos + Muros,Estructuras,3,0,0,1,1.0,69.92,1,1.0,Compacto,100.0,0.0,5.83
+312,Independencia - Edificio 2,0,30,20600.95,Alto,Muros,Arquitectura,5,0,0,1,1.0,182.24,1,1.0,Compacto,100.0,0.0,15.19
+313,Centrico - Edificio 5 y 6,0,30,17856.29,Alto,Muros,Arquitectura,5,0,0,1,1.0,135.68,1,1.0,Compacto,100.0,0.0,11.31
+314,Independencia - Edificio 2,0,30,23929.39,Alto,Muros,Acabados,5,0,0,2,1.25,336.04,2,1.25,Compacto,100.0,0.0,28.0
+315,Megaplaza,1,30,42358.89,Medio,Porticos + Muros,Arquitectura,3,0,0,1,1.0,347.96,2,0.89,Atómico,80.6,8.9,33.45
+316,MORE,1,45,44214.45,Medio,Porticos + Muros,Acabados,3,40,0,2,1.25,515.68,2,1.25,Compacto,100.0,0.0,42.97
+317,"San Juan - Edificio 6, 7",0,30,19616.59,Alto,Muros,Estructuras,1,0,0,1,1.0,30.06,1,0.86,Atómico,61.9,9.0,7.0
+318,Independencia - Edificio 2,0,30,21572.63,Alto,Muros,Encofrado,5,0,0,1,1.0,62.59,1,1.0,Compacto,100.0,0.0,5.22
+319,MORE,1,45,45959.45,Medio,Porticos + Muros,Estructuras,3,0,0,1,1.0,100.39,1,1.0,Compacto,100.0,0.0,8.37
+320,Megaplaza,1,30,39569.76,Medio,Porticos + Muros,Encofrado,5,0,1,1,1.0,128.67,1,0.69,Escalonado,60.2,8.7,15.07
+321,Centrico - Edificio 5 y 6,0,30,23161.08,Alto,Muros,Acabados,5,0,0,2,1.25,258.57,1,1.25,Compacto,100.0,0.0,21.55
+322,Centrico - Edificio 5 y 6,0,30,18589.15,Alto,Muros,Arquitectura,1,40,0,1,1.0,150.11,1,0.79,Escalonado,65.1,3.1,14.06
+323,Megaplaza,1,30,39408.57,Medio,Porticos + Muros,Arquitectura,5,0,0,1,1.0,289.71,1,1.0,Compacto,100.0,0.0,24.14
+324,Centrico - Edificio 5 y 6,0,30,19833.93,Alto,Muros,Estructuras,1,0,0,1,1.0,36.06,1,0.88,Atómico,92.4,11.0,8.51
+325,Megaplaza,1,30,40484.59,Medio,Porticos + Muros,Arquitectura,1,0,0,1,1.0,350.95,2,0.74,Escalonado,77.0,14.3,36.4
+326,MORE,1,45,45943.47,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,133.34,1,1.0,Compacto,100.0,0.0,11.11
+327,Megaplaza,1,30,37803.41,Medio,Porticos + Muros,Encofrado,3,0,0,1,1.0,137.2,1,1.0,Compacto,100.0,0.0,11.43
+328,Megaplaza,1,30,45550.58,Medio,Porticos + Muros,Arquitectura,3,0,0,1,1.0,368.04,2,0.79,Escalonado,26.6,30.6,45.97
+329,Independencia - Edificio 2,0,30,17073.19,Alto,Muros,Acabados,5,0,0,2,1.25,167.75,1,1.25,Compacto,100.0,0.0,13.98
+330,Centrico - Edificio 5 y 6,0,30,22015.03,Alto,Muros,Estructuras,3,40,0,1,1.0,31.21,1,1.0,Compacto,100.0,0.0,2.6
+331,Centrico - Edificio 5 y 6,0,30,21461.53,Alto,Muros,Acabados,5,0,0,2,1.25,262.48,1,1.25,Compacto,100.0,0.0,21.87
+332,Independencia - Edificio 2,0,30,21372.64,Alto,Muros,Encofrado,5,0,1,1,1.0,81.72,1,1.0,Compacto,100.0,0.0,6.81
+333,Megaplaza,1,30,40417.42,Medio,Porticos + Muros,Encofrado,3,0,0,1,1.0,133.91,1,1.0,Compacto,100.0,0.0,11.16
+334,MORE,1,45,42155.91,Medio,Porticos + Muros,Encofrado,3,0,0,1,1.0,119.71,1,0.61,Escalonado,56.7,11.5,15.73
+335,Megaplaza,1,30,40252.72,Medio,Porticos + Muros,Estructuras,5,0,0,1,1.0,83.29,1,1.0,Compacto,100.0,0.0,6.94
+336,"San Juan - Edificio 6, 7",0,30,21906.05,Alto,Muros,Estructuras,1,0,0,1,1.0,26.74,1,0.62,Escalonado,74.4,4.7,4.58
+337,Centrico - Edificio 5 y 6,0,30,19559.75,Alto,Muros,Arquitectura,5,0,0,1,1.0,133.0,1,1.0,Compacto,100.0,0.0,11.08
+338,"San Juan - Edificio 6, 7",0,30,23626.68,Alto,Muros,Estructuras,3,40,0,1,1.0,36.62,1,1.0,Compacto,100.0,0.0,3.05
+339,Centrico - Edificio 5 y 6,0,30,19247.65,Alto,Muros,Acabados,3,0,0,2,1.25,259.93,1,1.25,Compacto,100.0,0.0,21.66
+340,Megaplaza,1,30,46275.74,Medio,Porticos + Muros,Arquitectura,1,0,0,1,1.0,377.68,2,0.83,Atómico,94.2,1.4,32.17
+341,MORE,1,45,36610.28,Medio,Porticos + Muros,Estructuras,5,0,0,1,1.0,67.48,1,1.0,Compacto,100.0,0.0,5.62
+342,Independencia - Edificio 2,0,30,19451.12,Alto,Muros,Arquitectura,5,0,0,1,1.0,160.84,1,1.0,Compacto,100.0,0.0,13.4
+343,Independencia - Edificio 2,0,30,21283.63,Alto,Muros,Estructuras,5,0,0,1,1.0,30.61,1,1.0,Compacto,100.0,0.0,2.55
+344,"San Juan - Edificio 6, 7",0,30,19988.81,Alto,Muros,Acabados,3,0,0,2,1.25,287.27,1,1.25,Compacto,100.0,0.0,23.94
+345,Centrico - Edificio 5 y 6,0,30,19412.07,Alto,Muros,Encofrado,1,0,0,1,1.0,57.61,1,0.62,Atómico,74.0,17.4,13.5
+346,"San Juan - Edificio 6, 7",0,30,22639.29,Alto,Muros,Encofrado,5,40,0,1,1.0,49.17,1,1.0,Compacto,100.0,0.0,4.1
+347,Centrico - Edificio 5 y 6,0,30,22194.31,Alto,Muros,Encofrado,3,0,0,1,1.0,70.45,1,1.0,Compacto,100.0,0.0,5.87
+348,Independencia - Edificio 2,0,30,21619.72,Alto,Muros,Arquitectura,5,0,0,1,1.0,163.64,1,1.0,Compacto,100.0,0.0,13.64
+349,Independencia - Edificio 2,0,30,20286.78,Alto,Muros,Estructuras,3,0,0,1,1.0,27.45,1,1.0,Compacto,100.0,0.0,2.29
+350,Independencia - Edificio 2,0,30,22225.38,Alto,Muros,Estructuras,3,0,0,1,1.0,49.59,1,1.0,Compacto,100.0,0.0,4.13
+351,Centrico - Edificio 5 y 6,0,30,18685.14,Alto,Muros,Estructuras,5,0,0,1,1.0,37.56,1,1.0,Compacto,100.0,0.0,3.13
+352,"San Juan - Edificio 6, 7",0,30,22897.0,Alto,Muros,Encofrado,5,0,0,1,1.0,73.21,1,1.0,Compacto,100.0,0.0,6.1
+353,Megaplaza,1,30,39327.63,Medio,Porticos + Muros,Estructuras,1,0,0,1,1.0,70.87,1,0.66,Atómico,70.0,8.6,10.21
+354,Megaplaza,1,30,43793.79,Medio,Porticos + Muros,Arquitectura,1,0,0,1,1.0,288.89,1,0.89,Escalonado,87.0,7.6,27.87
+355,Megaplaza,1,30,43318.93,Medio,Porticos + Muros,Estructuras,5,0,0,1,1.0,58.15,1,1.0,Compacto,100.0,0.0,4.85
+356,"San Juan - Edificio 6, 7",0,30,21852.12,Alto,Muros,Encofrado,5,0,0,1,1.0,63.48,1,1.0,Compacto,100.0,0.0,5.29
+357,Centrico - Edificio 5 y 6,0,30,20553.59,Alto,Muros,Estructuras,1,0,0,1,1.0,27.77,1,0.8,Atómico,59.9,12.1,8.36
+358,Independencia - Edificio 2,0,30,18271.22,Alto,Muros,Acabados,1,40,0,2,1.25,232.56,1,1.25,Compacto,100.0,0.0,19.38
+359,Centrico - Edificio 5 y 6,0,30,23354.93,Alto,Muros,Arquitectura,5,0,0,1,1.0,173.54,1,1.0,Compacto,100.0,0.0,14.46
+360,MORE,1,45,43230.12,Medio,Porticos + Muros,Encofrado,5,0,1,1,1.0,112.07,1,1.0,Compacto,100.0,0.0,9.34
+361,MORE,1,45,37205.58,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,97.95,1,1.0,Compacto,100.0,0.0,8.16
+362,MORE,1,45,37679.79,Medio,Porticos + Muros,Encofrado,3,0,0,1,1.0,117.17,1,1.0,Compacto,100.0,0.0,9.76
+363,"San Juan - Edificio 6, 7",0,30,19051.64,Alto,Muros,Arquitectura,5,0,0,1,1.0,185.95,1,1.0,Compacto,100.0,0.0,15.5
+364,Independencia - Edificio 2,0,30,19212.78,Alto,Muros,Estructuras,5,0,0,1,1.0,40.72,1,1.0,Compacto,100.0,0.0,3.39
+365,Centrico - Edificio 5 y 6,0,30,21998.66,Alto,Muros,Acabados,5,0,0,2,1.25,275.99,1,1.25,Compacto,100.0,0.0,23.0
+366,Centrico - Edificio 5 y 6,0,30,20765.72,Alto,Muros,Arquitectura,5,0,0,1,1.0,154.6,1,1.0,Compacto,100.0,0.0,12.88
+367,MORE,1,45,41586.52,Medio,Porticos + Muros,Acabados,1,0,0,2,1.25,443.92,2,1.1,Escalonado,83.2,5.5,39.74
+368,Independencia - Edificio 2,0,30,17992.22,Alto,Muros,Estructuras,5,0,0,1,1.0,37.51,1,0.85,Escalonado,78.9,6.9,6.58
+369,"San Juan - Edificio 6, 7",0,30,17708.92,Alto,Muros,Arquitectura,3,0,0,1,1.0,115.47,1,1.0,Compacto,100.0,0.0,9.62
+370,"San Juan - Edificio 6, 7",0,30,22129.75,Alto,Muros,Acabados,3,0,0,2,1.25,208.69,1,1.25,Compacto,100.0,0.0,17.39
+371,MORE,1,45,37960.57,Medio,Porticos + Muros,Arquitectura,3,0,0,1,1.0,222.49,1,1.0,Compacto,100.0,0.0,18.54
+372,"San Juan - Edificio 6, 7",0,30,23189.47,Alto,Muros,Encofrado,3,0,0,1,1.0,63.21,1,1.0,Compacto,100.0,0.0,5.27
+373,Megaplaza,1,30,45846.95,Medio,Porticos + Muros,Arquitectura,1,0,0,1,1.0,375.74,2,0.65,Atómico,80.6,6.6,34.61
+374,Independencia - Edificio 2,0,30,19324.94,Alto,Muros,Arquitectura,3,0,0,1,1.0,157.23,1,1.0,Compacto,100.0,0.0,13.1
+375,MORE,1,45,41780.14,Medio,Porticos + Muros,Acabados,5,0,0,2,1.25,679.14,2,1.25,Compacto,100.0,0.0,56.59
+376,"San Juan - Edificio 6, 7",0,30,18964.49,Alto,Muros,Arquitectura,5,0,0,1,1.0,150.76,1,1.0,Compacto,100.0,0.0,12.56
+377,Megaplaza,1,30,47725.76,Medio,Porticos + Muros,Estructuras,3,0,0,1,1.0,92.28,1,1.0,Compacto,100.0,0.0,7.69
+378,"San Juan - Edificio 6, 7",0,30,19530.76,Alto,Muros,Estructuras,1,40,0,1,1.0,49.19,1,0.74,Atómico,68.4,3.0,5.6
+379,MORE,1,45,31656.74,Medio,Porticos + Muros,Estructuras,5,40,0,1,1.0,52.33,1,1.0,Compacto,100.0,0.0,4.36
+380,MORE,1,45,39639.5,Medio,Porticos + Muros,Estructuras,3,0,0,1,1.0,78.57,1,1.0,Compacto,100.0,0.0,6.55
+381,Megaplaza,1,30,43393.72,Medio,Porticos + Muros,Encofrado,5,40,0,1,1.0,92.93,1,1.0,Compacto,100.0,0.0,7.74
+382,"San Juan - Edificio 6, 7",0,30,19410.44,Alto,Muros,Encofrado,5,0,0,1,1.0,71.26,1,0.8,Atómico,81.7,4.4,8.14
+383,Independencia - Edificio 2,0,30,15588.87,Alto,Muros,Arquitectura,5,0,0,1,1.0,121.0,1,1.0,Compacto,100.0,0.0,10.08
+384,MORE,1,45,39973.91,Medio,Porticos + Muros,Encofrado,5,40,0,1,1.0,147.87,1,1.0,Compacto,100.0,0.0,12.32
+385,MORE,1,45,41658.59,Medio,Porticos + Muros,Acabados,5,0,0,2,1.25,668.45,2,1.25,Compacto,100.0,0.0,55.7
+386,Centrico - Edificio 5 y 6,0,30,21395.81,Alto,Muros,Arquitectura,5,0,0,1,1.0,176.31,1,1.0,Compacto,100.0,0.0,14.69
+387,Centrico - Edificio 5 y 6,0,30,20622.62,Alto,Muros,Arquitectura,5,0,0,1,1.0,141.31,1,1.0,Compacto,100.0,0.0,11.78
+388,Independencia - Edificio 2,0,30,20795.85,Alto,Muros,Estructuras,3,0,0,1,1.0,33.44,1,1.0,Compacto,100.0,0.0,2.79
+389,MORE,1,45,34377.73,Medio,Porticos + Muros,Arquitectura,5,0,0,1,1.0,327.09,2,1.0,Compacto,100.0,0.0,27.26
+390,MORE,1,45,38316.24,Medio,Porticos + Muros,Acabados,5,40,0,2,1.25,440.92,2,1.25,Compacto,100.0,0.0,36.74
+391,"San Juan - Edificio 6, 7",0,30,21467.98,Alto,Muros,Arquitectura,3,0,0,1,1.0,200.72,1,0.81,Escalonado,69.1,12.0,22.73
+392,Centrico - Edificio 5 y 6,0,30,19621.21,Alto,Muros,Arquitectura,1,0,0,1,1.0,125.58,1,1.0,Compacto,100.0,0.0,10.46
+393,"San Juan - Edificio 6, 7",0,30,21960.19,Alto,Muros,Encofrado,3,40,0,1,1.0,69.49,1,1.0,Compacto,100.0,0.0,5.79
+394,"San Juan - Edificio 6, 7",0,30,23793.48,Alto,Muros,Arquitectura,5,0,0,1,1.0,170.78,1,1.0,Compacto,100.0,0.0,14.23
+395,Independencia - Edificio 2,0,30,21513.58,Alto,Muros,Arquitectura,1,0,0,1,1.0,188.67,1,0.69,Escalonado,62.1,1.4,16.42
+396,Independencia - Edificio 2,0,30,18804.86,Alto,Muros,Arquitectura,1,0,0,1,1.0,165.15,1,0.72,Escalonado,71.7,20.2,23.86
+397,Centrico - Edificio 5 y 6,0,30,23537.54,Alto,Muros,Acabados,5,40,0,2,1.25,284.21,1,1.25,Compacto,100.0,0.0,23.68
+398,Independencia - Edificio 2,0,30,19587.04,Alto,Muros,Estructuras,5,0,0,1,1.0,36.22,1,1.0,Compacto,100.0,0.0,3.02
+399,Megaplaza,1,30,44473.83,Medio,Porticos + Muros,Encofrado,5,40,1,1,1.0,144.88,1,1.0,Compacto,100.0,0.0,12.07
+400,Independencia - Edificio 2,0,30,17882.18,Alto,Muros,Acabados,5,0,0,2,1.25,290.33,1,1.25,Compacto,100.0,0.0,24.19
+401,Independencia - Edificio 2,0,30,22022.93,Alto,Muros,Arquitectura,5,40,0,1,1.0,215.45,1,1.0,Compacto,100.0,0.0,17.95
+402,MORE,1,45,42251.52,Medio,Porticos + Muros,Arquitectura,5,40,0,1,1.0,296.22,1,1.0,Compacto,100.0,0.0,24.69
+403,Megaplaza,1,30,46216.64,Medio,Porticos + Muros,Encofrado,3,40,0,1,1.0,157.6,1,1.0,Compacto,100.0,0.0,13.13
+404,Megaplaza,1,30,35587.27,Medio,Porticos + Muros,Estructuras,5,0,0,1,1.0,57.73,1,1.0,Compacto,100.0,0.0,4.81
+405,Independencia - Edificio 2,0,30,16521.87,Alto,Muros,Arquitectura,5,0,0,1,1.0,156.19,1,0.87,Escalonado,88.2,9.4,17.72
+406,"San Juan - Edificio 6, 7",0,30,21245.42,Alto,Muros,Acabados,3,40,0,2,1.25,288.41,1,1.25,Compacto,100.0,0.0,24.03
+407,Centrico - Edificio 5 y 6,0,30,20149.55,Alto,Muros,Encofrado,1,0,1,1,1.0,58.61,1,0.73,Atómico,67.4,4.4,7.08
+408,MORE,1,45,39752.94,Medio,Porticos + Muros,Encofrado,1,40,0,1,1.0,128.15,1,0.66,Atómico,59.4,2.6,11.98
+409,Megaplaza,1,30,35445.73,Medio,Porticos + Muros,Acabados,3,0,0,2,1.25,564.4,2,1.25,Compacto,100.0,0.0,47.03
+410,Independencia - Edificio 2,0,30,20564.37,Alto,Muros,Encofrado,3,0,1,1,1.0,54.34,1,1.0,Compacto,100.0,0.0,4.53
+411,Megaplaza,1,30,39901.37,Medio,Porticos + Muros,Estructuras,3,0,0,1,1.0,88.05,1,1.0,Compacto,100.0,0.0,7.34
+412,MORE,1,45,38715.03,Medio,Porticos + Muros,Acabados,1,0,0,2,1.25,631.88,2,1.25,Compacto,100.0,0.0,52.66
+413,"San Juan - Edificio 6, 7",0,30,20715.68,Alto,Muros,Arquitectura,3,0,0,1,1.0,185.37,1,1.0,Compacto,100.0,0.0,15.45
+414,MORE,1,45,47825.67,Medio,Porticos + Muros,Acabados,5,0,0,2,1.25,657.56,2,1.25,Compacto,100.0,0.0,54.8
+415,"San Juan - Edificio 6, 7",0,30,18582.43,Alto,Muros,Estructuras,5,0,0,1,1.0,32.86,1,1.0,Compacto,100.0,0.0,2.74
+416,Centrico - Edificio 5 y 6,0,30,17489.78,Alto,Muros,Encofrado,5,0,0,1,1.0,65.48,1,1.0,Compacto,100.0,0.0,5.46
+417,Independencia - Edificio 2,0,30,17664.44,Alto,Muros,Encofrado,3,0,0,1,1.0,60.17,1,1.0,Compacto,100.0,0.0,5.01
+418,MORE,1,45,39214.69,Medio,Porticos + Muros,Arquitectura,3,0,0,1,1.0,289.64,1,0.78,Escalonado,78.4,18.7,33.49
+419,"San Juan - Edificio 6, 7",0,30,16663.12,Alto,Muros,Acabados,5,0,0,2,1.25,211.89,1,1.25,Compacto,100.0,0.0,17.66
+420,MORE,1,45,37869.36,Medio,Porticos + Muros,Acabados,1,40,0,2,1.25,423.74,2,1.25,Compacto,100.0,0.0,35.31
+421,Independencia - Edificio 2,0,30,18432.96,Alto,Muros,Arquitectura,5,0,0,1,1.0,164.83,1,1.0,Compacto,100.0,0.0,13.74
+422,MORE,1,45,43995.27,Medio,Porticos + Muros,Arquitectura,5,0,0,1,1.0,325.25,2,1.0,Compacto,100.0,0.0,27.1
+423,"San Juan - Edificio 6, 7",0,30,22776.68,Alto,Muros,Arquitectura,3,40,0,1,1.0,186.12,1,1.0,Compacto,100.0,0.0,15.51
+424,Megaplaza,1,30,31477.73,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,69.08,1,1.0,Compacto,100.0,0.0,5.76
+425,Megaplaza,1,30,46898.79,Medio,Porticos + Muros,Encofrado,3,0,0,1,1.0,146.05,1,1.0,Compacto,100.0,0.0,12.17
+426,Megaplaza,1,30,36426.03,Medio,Porticos + Muros,Arquitectura,1,40,0,1,1.0,388.23,2,0.61,Escalonado,78.0,15.2,39.95
+427,MORE,1,45,37539.08,Medio,Porticos + Muros,Encofrado,1,0,1,1,1.0,88.04,1,1.0,Compacto,100.0,0.0,7.34
+428,Centrico - Edificio 5 y 6,0,30,23398.99,Alto,Muros,Encofrado,3,40,1,1,1.0,82.52,1,1.0,Compacto,100.0,0.0,6.88
+429,Centrico - Edificio 5 y 6,0,30,21354.29,Alto,Muros,Encofrado,5,0,1,1,1.0,61.75,1,0.85,Atómico,88.9,16.5,13.4
+430,MORE,1,45,38250.96,Medio,Porticos + Muros,Acabados,5,0,0,2,1.25,491.67,2,1.25,Compacto,100.0,0.0,40.97
+431,Centrico - Edificio 5 y 6,0,30,21402.58,Alto,Muros,Acabados,1,40,0,2,1.25,275.94,1,0.79,Atómico,43.8,11.9,28.95
+432,MORE,1,45,36204.33,Medio,Porticos + Muros,Arquitectura,5,0,0,1,1.0,376.43,2,1.0,Compacto,100.0,0.0,31.37
+433,Centrico - Edificio 5 y 6,0,30,22271.24,Alto,Muros,Estructuras,3,40,0,1,1.0,32.07,1,1.0,Compacto,100.0,0.0,2.67
+434,"San Juan - Edificio 6, 7",0,30,22446.17,Alto,Muros,Arquitectura,1,40,0,1,1.0,172.73,1,0.76,Atómico,85.7,10.8,19.79
+435,Centrico - Edificio 5 y 6,0,30,19523.32,Alto,Muros,Acabados,1,0,0,2,1.25,221.34,1,1.25,Compacto,100.0,0.0,18.45
+436,Independencia - Edificio 2,0,30,20376.94,Alto,Muros,Encofrado,3,0,0,1,1.0,65.56,1,1.0,Compacto,100.0,0.0,5.46
+437,Independencia - Edificio 2,0,30,21012.73,Alto,Muros,Estructuras,5,0,0,1,1.0,37.49,1,1.0,Compacto,100.0,0.0,3.12
+438,Independencia - Edificio 2,0,30,19553.87,Alto,Muros,Arquitectura,5,0,0,1,1.0,166.97,1,1.0,Compacto,100.0,0.0,13.91
+439,"San Juan - Edificio 6, 7",0,30,19354.5,Alto,Muros,Estructuras,5,0,0,1,1.0,32.58,1,1.0,Compacto,100.0,0.0,2.71
+440,Centrico - Edificio 5 y 6,0,30,20901.31,Alto,Muros,Estructuras,5,0,0,1,1.0,28.29,1,1.0,Compacto,100.0,0.0,2.36
+441,Megaplaza,1,30,39064.34,Medio,Porticos + Muros,Arquitectura,5,0,0,1,1.0,300.86,2,1.0,Compacto,100.0,0.0,25.07
+442,MORE,1,45,40586.57,Medio,Porticos + Muros,Estructuras,5,40,0,1,1.0,71.99,1,1.0,Compacto,100.0,0.0,6.0
+443,Independencia - Edificio 2,0,30,19418.58,Alto,Muros,Arquitectura,1,0,0,1,1.0,160.79,1,0.81,Escalonado,79.6,3.1,14.95
+444,Megaplaza,1,30,39296.87,Medio,Porticos + Muros,Arquitectura,1,0,0,1,1.0,334.23,2,0.61,Escalonado,76.3,8.7,32.2
+445,Independencia - Edificio 2,0,30,16779.86,Alto,Muros,Acabados,3,0,0,2,1.25,231.96,1,0.9,Escalonado,71.6,9.5,24.08
+446,"San Juan - Edificio 6, 7",0,30,19668.94,Alto,Muros,Encofrado,5,40,1,1,1.0,53.29,1,0.67,Escalonado,29.1,9.0,8.94
+447,Independencia - Edificio 2,0,30,20036.8,Alto,Muros,Acabados,5,0,0,2,1.25,215.32,1,1.25,Compacto,100.0,0.0,17.94
+448,"San Juan - Edificio 6, 7",0,30,23405.03,Alto,Muros,Estructuras,3,40,0,1,1.0,44.69,1,1.0,Compacto,100.0,0.0,3.72
+449,Megaplaza,1,30,42212.16,Medio,Porticos + Muros,Estructuras,3,40,0,1,1.0,80.09,1,1.0,Compacto,100.0,0.0,6.67
+450,Megaplaza,1,30,39146.43,Medio,Porticos + Muros,Encofrado,3,0,1,1,1.0,114.93,1,1.0,Compacto,100.0,0.0,9.58
+451,Independencia - Edificio 2,0,30,20405.98,Alto,Muros,Estructuras,5,40,0,1,1.0,29.33,1,1.0,Compacto,100.0,0.0,2.44
+452,Independencia - Edificio 2,0,30,18521.97,Alto,Muros,Arquitectura,1,0,0,1,1.0,185.24,1,0.88,Escalonado,72.7,2.0,16.44
+453,Independencia - Edificio 2,0,30,19606.96,Alto,Muros,Encofrado,5,0,0,1,1.0,67.82,1,1.0,Compacto,100.0,0.0,5.65
+454,MORE,1,45,42616.42,Medio,Porticos + Muros,Arquitectura,3,0,0,1,1.0,388.28,2,1.0,Compacto,100.0,0.0,32.36
+455,Independencia - Edificio 2,0,30,17734.66,Alto,Muros,Acabados,3,40,0,2,1.25,242.77,1,1.25,Compacto,100.0,0.0,20.23
+456,MORE,1,45,41964.83,Medio,Porticos + Muros,Encofrado,1,0,0,1,1.0,119.31,1,1.0,Compacto,100.0,0.0,9.94
+457,Independencia - Edificio 2,0,30,19282.47,Alto,Muros,Arquitectura,5,0,0,1,1.0,152.38,1,1.0,Compacto,100.0,0.0,12.7
+458,Megaplaza,1,30,33075.19,Medio,Porticos + Muros,Acabados,1,40,0,2,1.25,538.06,2,1.06,Escalonado,89.2,35.9,62.79
+459,"San Juan - Edificio 6, 7",0,30,20139.86,Alto,Muros,Estructuras,3,40,0,1,1.0,33.67,1,1.0,Compacto,100.0,0.0,2.81
+460,Megaplaza,1,30,36413.43,Medio,Porticos + Muros,Acabados,1,0,0,2,1.25,306.08,2,1.09,Atómico,51.6,6.1,28.56
+461,MORE,1,45,36774.55,Medio,Porticos + Muros,Arquitectura,1,0,0,1,1.0,240.43,1,0.87,Atómico,94.2,10.5,25.29
+462,Independencia - Edificio 2,0,30,21552.06,Alto,Muros,Acabados,5,0,0,2,1.25,292.21,1,1.25,Compacto,100.0,0.0,24.35
+463,Megaplaza,1,30,41448.16,Medio,Porticos + Muros,Arquitectura,1,0,0,1,1.0,355.69,2,0.74,Atómico,56.4,30.3,44.79
+464,Centrico - Edificio 5 y 6,0,30,24228.66,Alto,Muros,Encofrado,5,0,1,1,1.0,63.0,1,1.0,Compacto,100.0,0.0,5.25
+465,Independencia - Edificio 2,0,30,18683.42,Alto,Muros,Estructuras,5,40,0,1,1.0,29.95,1,0.63,Atómico,78.8,3.6,4.3
+466,Independencia - Edificio 2,0,30,20038.19,Alto,Muros,Encofrado,1,0,0,1,1.0,66.61,1,0.82,Atómico,88.5,8.0,9.55
+467,Megaplaza,1,30,36000.4,Medio,Porticos + Muros,Arquitectura,1,0,0,1,1.0,277.94,1,0.84,Atómico,73.4,3.2,24.76
+468,Centrico - Edificio 5 y 6,0,30,21019.07,Alto,Muros,Estructuras,1,0,0,1,1.0,39.79,1,1.0,Compacto,100.0,0.0,3.32
+469,Megaplaza,1,30,31572.95,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,96.63,1,1.0,Compacto,100.0,0.0,8.05
+470,"San Juan - Edificio 6, 7",0,30,19735.51,Alto,Muros,Encofrado,5,0,0,1,1.0,67.5,1,1.0,Compacto,100.0,0.0,5.62
+471,"San Juan - Edificio 6, 7",0,30,19005.47,Alto,Muros,Acabados,1,0,0,2,1.25,238.94,1,0.88,Atómico,44.6,12.4,26.11
+472,Centrico - Edificio 5 y 6,0,30,19852.31,Alto,Muros,Encofrado,5,0,0,1,1.0,67.12,1,1.0,Compacto,100.0,0.0,5.59
+473,Independencia - Edificio 2,0,30,21272.73,Alto,Muros,Estructuras,5,0,0,1,1.0,34.43,1,1.0,Compacto,100.0,0.0,2.87
+474,"San Juan - Edificio 6, 7",0,30,20159.2,Alto,Muros,Estructuras,5,0,0,1,1.0,37.24,1,1.0,Compacto,100.0,0.0,3.1
+475,Megaplaza,1,30,33754.03,Medio,Porticos + Muros,Estructuras,3,0,0,1,1.0,71.9,1,1.0,Compacto,100.0,0.0,5.99
+476,Independencia - Edificio 2,0,30,18408.62,Alto,Muros,Encofrado,5,40,0,1,1.0,53.72,1,1.0,Compacto,100.0,0.0,4.48
+477,MORE,1,45,46705.57,Medio,Porticos + Muros,Arquitectura,5,0,0,1,1.0,324.24,2,1.0,Compacto,100.0,0.0,27.02
+478,Centrico - Edificio 5 y 6,0,30,20433.25,Alto,Muros,Encofrado,5,40,0,1,1.0,52.56,1,1.0,Compacto,100.0,0.0,4.38
+479,Independencia - Edificio 2,0,30,21490.06,Alto,Muros,Estructuras,5,0,0,1,1.0,45.34,1,1.0,Compacto,100.0,0.0,3.78
+480,"San Juan - Edificio 6, 7",0,30,18729.55,Alto,Muros,Encofrado,1,0,0,1,1.0,62.45,1,1.0,Compacto,100.0,0.0,5.2
+481,Independencia - Edificio 2,0,30,21842.83,Alto,Muros,Encofrado,1,0,0,1,1.0,58.52,1,0.72,Atómico,87.0,18.5,14.13
+482,Centrico - Edificio 5 y 6,0,30,21513.0,Alto,Muros,Estructuras,5,0,0,1,1.0,30.99,1,1.0,Compacto,100.0,0.0,2.58
+483,"San Juan - Edificio 6, 7",0,30,20271.26,Alto,Muros,Encofrado,1,40,0,1,1.0,65.58,1,0.69,Atómico,73.9,26.1,18.52
+484,MORE,1,45,35239.2,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,124.45,1,1.0,Compacto,100.0,0.0,10.37
+485,MORE,1,45,37624.75,Medio,Porticos + Muros,Acabados,1,0,0,2,1.25,477.12,2,0.91,Atómico,81.7,8.3,43.91
+486,"San Juan - Edificio 6, 7",0,30,19521.25,Alto,Muros,Encofrado,3,0,0,1,1.0,50.63,1,1.0,Compacto,100.0,0.0,4.22
+487,MORE,1,45,31028.18,Medio,Porticos + Muros,Estructuras,1,0,0,1,1.0,54.21,1,0.66,Escalonado,85.3,1.5,5.27
+488,MORE,1,45,39514.7,Medio,Porticos + Muros,Estructuras,5,40,0,1,1.0,63.19,1,1.0,Compacto,100.0,0.0,5.27
+489,Megaplaza,1,30,47955.07,Medio,Porticos + Muros,Encofrado,5,0,0,1,1.0,151.26,1,1.0,Compacto,100.0,0.0,12.6
+490,Independencia - Edificio 2,0,30,23945.08,Alto,Muros,Estructuras,5,0,0,1,1.0,33.07,1,1.0,Compacto,100.0,0.0,2.76
+491,MORE,1,45,49085.8,Medio,Porticos + Muros,Arquitectura,3,0,0,1,1.0,369.57,2,1.0,Compacto,100.0,0.0,30.8
+492,"San Juan - Edificio 6, 7",0,30,20871.95,Alto,Muros,Acabados,5,0,0,2,1.25,185.59,1,0.91,Atómico,88.8,12.2,21.57
+493,"San Juan - Edificio 6, 7",0,30,21688.57,Alto,Muros,Encofrado,1,0,0,1,1.0,73.81,1,0.68,Escalonado,61.8,9.7,11.0
+494,Megaplaza,1,30,41776.79,Medio,Porticos + Muros,Estructuras,3,0,0,1,1.0,83.78,1,0.62,Atómico,52.3,12.5,13.23
+495,Megaplaza,1,30,47741.28,Medio,Porticos + Muros,Estructuras,5,40,0,1,1.0,90.08,1,0.72,Escalonado,85.3,2.9,8.96
+496,"San Juan - Edificio 6, 7",0,30,15247.13,Alto,Muros,Acabados,1,40,0,2,1.25,188.39,1,1.1,Atómico,91.5,41.7,36.55
+497,MORE,1,45,33449.58,Medio,Porticos + Muros,Estructuras,1,0,0,1,1.0,57.89,1,0.61,Atómico,65.8,16.3,12.97
+498,MORE,1,45,29587.45,Alto,Muros,Arquitectura,1,0,0,1,1.0,238.56,1,1.0,Compacto,100.0,0.0,19.88
+499,"San Juan - Edificio 6, 7",0,30,20981.66,Alto,Muros,Estructuras,1,0,0,1,1.0,36.42,1,0.7,Escalonado,80.6,5.4,5.74
+500,Independencia - Edificio 2,0,30,22388.19,Alto,Muros,Arquitectura,5,0,0,1,1.0,151.49,1,1.0,Compacto,100.0,0.0,12.62
+501,Independencia - Edificio 2,0,30,21353.3,Alto,Muros,Encofrado,5,0,0,1,1.0,79.56,1,1.0,Compacto,100.0,0.0,6.63
+502,Independencia - Edificio 2,0,30,20783.69,Alto,Muros,Encofrado,5,0,1,1,1.0,44.23,1,0.79,Atómico,61.0,4.2,5.79
+503,Centrico - Edificio 5 y 6,0,30,23940.52,Alto,Muros,Acabados,5,0,0,2,1.25,382.12,2,1.25,Compacto,100.0,0.0,31.84
+504,"San Juan - Edificio 6, 7",0,30,17662.52,Alto,Muros,Acabados,3,0,0,2,1.25,256.7,1,1.25,Compacto,100.0,0.0,21.39
+505,Centrico - Edificio 5 y 6,0,30,17557.01,Alto,Muros,Arquitectura,1,0,0,1,1.0,129.59,1,0.82,Escalonado,91.6,13.9,17.75
+506,"San Juan - Edificio 6, 7",0,30,16280.13,Alto,Muros,Arquitectura,3,0,0,1,1.0,118.94,1,1.0,Compacto,100.0,0.0,9.91
+507,MORE,1,45,36757.74,Medio,Porticos + Muros,Acabados,3,0,0,2,1.25,368.29,2,1.25,Compacto,100.0,0.0,30.69
+508,Megaplaza,1,30,36435.13,Medio,Porticos + Muros,Arquitectura,5,0,0,1,1.0,288.79,1,1.0,Compacto,100.0,0.0,24.07
+509,Independencia - Edificio 2,0,30,19923.72,Alto,Muros,Estructuras,3,0,0,1,1.0,34.12,1,1.0,Compacto,100.0,0.0,2.84
+510,Megaplaza,1,30,44707.42,Medio,Porticos + Muros,Estructuras,5,0,0,1,1.0,81.73,1,1.0,Compacto,100.0,0.0,6.81
+511,Independencia - Edificio 2,0,30,19233.08,Alto,Muros,Encofrado,3,0,0,1,1.0,54.31,1,1.0,Compacto,100.0,0.0,4.53
+512,Megaplaza,1,30,42240.95,Medio,Porticos + Muros,Arquitectura,5,0,0,1,1.0,299.25,1,1.0,Compacto,100.0,0.0,24.94
+513,Centrico - Edificio 5 y 6,0,30,22463.54,Alto,Muros,Encofrado,5,0,1,1,1.0,52.69,1,1.0,Compacto,100.0,0.0,4.39
+514,Independencia - Edificio 2,0,30,23542.78,Alto,Muros,Estructuras,5,0,0,1,1.0,43.08,1,1.0,Compacto,100.0,0.0,3.59
+515,"San Juan - Edificio 6, 7",0,30,19204.97,Alto,Muros,Acabados,1,0,0,2,1.25,238.11,1,1.09,Escalonado,82.5,6.7,23.19
+516,Megaplaza,1,30,34548.35,Medio,Porticos + Muros,Arquitectura,3,0,0,1,1.0,300.59,2,1.0,Compacto,100.0,0.0,25.05
+517,MORE,1,45,40750.16,Medio,Porticos + Muros,Acabados,5,0,0,2,1.25,456.93,2,1.25,Compacto,100.0,0.0,38.08
